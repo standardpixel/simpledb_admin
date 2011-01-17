@@ -1,0 +1,5 @@
+StandardPixel SimpleDB Admin
+by Eric Gelinas
+
+This is a simple admin tool for Amazon Simple DB. It relies heavily on the AWS PHP SDK (how do you like that for acronymoholism?). Assuming you have AWS configured properly, this should be pretty easy to set up. Just change the path in lib_aws.php to point to your checkout of the AWS SDK.
+
