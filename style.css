@@ -1,9 +1,9 @@
-.status {
+.status, .message {
 	padding:3px;
 	font-weight:bolder;
 	border:solid 1px white;
 }
-.status.failure {
+.status.failure, .message.failure {
 	background-color:red;color:white;
 }
 .status.success {
