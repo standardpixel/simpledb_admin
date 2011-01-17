@@ -1,0 +1,11 @@
+.status {
+	padding:3px;
+	font-weight:bolder;
+	border:solid 1px white;
+}
+.status.failure {
+	background-color:red;color:white;
+}
+.status.success {
+	background-color:green;color:white;
+}
